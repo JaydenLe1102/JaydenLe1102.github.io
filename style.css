@@ -1,0 +1,42 @@
+body{
+    height: 100%;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+}
+
+#intro{
+    display: flex;
+    height: 100%;
+    background-color: rgb(129, 198, 230);
+}
+
+#main_pic{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+    padding: 5%;
+}
+
+#my_intro{
+    width: 100%;
+    text-align: center;
+}
+
+.info{
+    width: 70%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2%;
+    border: 1px solid red;
+}
+
+#footer{
+    text-align: center;
+}
+
